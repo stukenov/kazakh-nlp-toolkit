@@ -68,6 +68,8 @@ kazakh-nlp-toolkit/
 ### `/utils`
 
 - **tokenize.py** - BPE tokenizer training and tokenization for Kazakh
+- **onegrammar.py** - Grammar correction utility using OpenAI GPT-4 for Kazakh text
+- **prepare-code.py** - Example training code for transformer models
 - **summarize-every-links.py** - News article summarization using GPT-4
 - **generate-news.py** - News article generation using GPT
 - **test-nltk-in-kazakh.py** - NLTK testing for Kazakh language
