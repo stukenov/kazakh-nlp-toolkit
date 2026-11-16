@@ -1,6 +1,28 @@
 # Kazakh NLP Toolkit
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Made for Kazakh](https://img.shields.io/badge/lang-Kazakh%20%F0%9F%87%B0%F0%9F%87%BF-1e90ff.svg)](#)
+
+> **The open entry point to a full Kazakh-language AI stack** — start here for translation, GPT-2/RWKV/mGPT training, fine-tuning, summarization, tokenization, and dataset prep, then branch out to the sibling projects (small LMs, TTS, ASR, video dubbing, and more) indexed below.
+
 A comprehensive collection of Natural Language Processing (NLP) tools and scripts for the Kazakh language. This toolkit includes utilities for translation, model training, dataset preparation, tokenization, and more.
+
+## The Kazakh-language AI stack
+
+This repository is the **umbrella hub** for an open, end-to-end Kazakh-language AI portfolio. Each sibling project is standalone — use this table as the index to find the right one.
+
+| Project | What it does |
+| --- | --- |
+| **[slm](https://github.com/stukenov/slm)** | Small language models (14M–600M) for Kazakh, trained from scratch |
+| **[turkic-tts](https://github.com/stukenov/turkic-tts)** | Text-to-speech for Turkic / Kazakh, multi-speaker |
+| **[kazakh-speech-pipeline](https://github.com/stukenov/kazakh-speech-pipeline)** | Whisper + GPT-4 ASR pipeline with grammar correction |
+| **[qazlang](https://github.com/stukenov/qazlang)** | Programming language with native Kazakh syntax |
+| **[kazakh-video-dubbing](https://github.com/stukenov/kazakh-video-dubbing)** | English → Kazakh video dubbing |
+| **[video-lingo-kazakh](https://github.com/stukenov/video-lingo-kazakh)** | Video translation and dubbing for Kazakh |
+| **[kazakh-micro-lm](https://github.com/stukenov/kazakh-micro-lm)** | Minimal RNN / GPT-2 models for Kazakh |
+| **[nanochat-kazakh](https://github.com/stukenov/nanochat-kazakh)** | Train a 50M-parameter Kazakh LM from scratch |
+| **[data-translate](https://github.com/stukenov/data-translate)** | Translate Hugging Face datasets in one command |
 
 ## Features
 
